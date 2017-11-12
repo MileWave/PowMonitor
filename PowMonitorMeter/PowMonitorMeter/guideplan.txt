@@ -1,0 +1,3 @@
+﻿Develop planning:
+
+1. To Detect USB 
